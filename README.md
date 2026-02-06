@@ -1,6 +1,6 @@
-# 🎓 Certificados Crehana & CCNA
+# 🎓 Certificados
 
-Este repositorio reúne mis **certificados obtenidos en Crehana** junto con mi formación en **CCNA Introducción a Redes**, reflejando mi dedicación al aprendizaje continuo y mi pasión por el desarrollo creativo y tecnológico.  
+Este repositorio reúne mis **certificados obtenido** como parte de mi formación en varios ambitos, reflejando mi dedicación al aprendizaje continuo y mi pasión por el desarrollo creativo y tecnológico.  
 Cada curso representa un paso en mi crecimiento profesional y personal. 🚀
 
 ---

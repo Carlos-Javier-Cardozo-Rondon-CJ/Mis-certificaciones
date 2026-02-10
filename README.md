@@ -22,9 +22,13 @@ Cada curso representa un paso en mi crecimiento profesional y personal. 🚀
 | 💻 Desarrollo Web | JDBC Servlets and JSP - Java Web Development Fundamentals | ✔️ |
 | 💻 Desarrollo Web | GIT+GitHub Todo un sistema de control de versiones de cero | ✔️ |
 | 💻 Desarrollo Web | Aprende a crear una API RESTful con Java y Spring Boot | ✔️ |
+| 💻 Desarrollo Web | Starting with Quarkus | ✔️ |
+| 💻 Desarrollo Web | Building Microservices with Quarkus| ✔️ |
+| 💻 Desarrollo Web | Accessing Relational Databases with Quarkus | ✔️ |
 | 🎨 UX & UI | Fundamentos de UX & UI | ✔️ |
 | ⏱️ Productividad | Introducción al Manejo del Tiempo | ✔️ |
 | 🌐 Redes & Infraestructura | CCNA Introducción a Redes | ✔️ |
+
 
 ---
 
